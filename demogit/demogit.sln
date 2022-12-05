@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "demogit", "demogit.vbproj", "{A87D64AA-7EE7-43A8-933A-333EAA9AF17C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A87D64AA-7EE7-43A8-933A-333EAA9AF17C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A87D64AA-7EE7-43A8-933A-333EAA9AF17C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A87D64AA-7EE7-43A8-933A-333EAA9AF17C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A87D64AA-7EE7-43A8-933A-333EAA9AF17C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {62E3F92B-4DFE-40DB-9F34-89028704FEEC}
+	EndGlobalSection
+EndGlobal
